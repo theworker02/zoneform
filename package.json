@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/zoneform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zone numeric form values, ranges, and human-readable units.",
+  "bin": {
+    "zoneform": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/zoneform.git"
+  },
+  "homepage": "https://theworker02.github.io/zoneform/",
+  "keywords": [
+    "zone",
+    "form",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
